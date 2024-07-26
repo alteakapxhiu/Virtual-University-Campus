@@ -8,7 +8,7 @@ Explore The (VR) Virtual University Campus built in Unreal Engine a new and exci
 
 Watch a demo of the app in action:
 
-[![Watch the video](https://youtu.be/5dXgW0DyCNk?si=0xmfWyKPje5GIRBl)
+![Watch the video](https://youtu.be/5dXgW0DyCNk?si=0xmfWyKPje5GIRBl)
 
 ## Features
 
