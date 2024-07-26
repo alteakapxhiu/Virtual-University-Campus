@@ -6,6 +6,10 @@
 
 Explore The (VR) Virtual University Campus built in Unreal Engine a new and exciting way of learning where you can attend virtual classes, navigate realistic campus grounds, and engage with a dynamic online community from anywhere all within an immersive digital environment.
 
+Watch a demo of the app in action:
+
+[![Watch the video](https://youtu.be/5dXgW0DyCNk?si=0xmfWyKPje5GIRBl)
+
 ## Features
 
 - **Realistic Environments**: Wander through detailed academic buildings, libraries, and outdoor spaces.
