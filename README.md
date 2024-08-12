@@ -25,7 +25,7 @@ To get started with the Virtual University Campus Simulation, follow these steps
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/virtual-university-campus.git
+    git clone https://github.com/alteakapxhiu/virtual-university-campus.git
     ```
 
 2. Open the project in Unreal Engine.
