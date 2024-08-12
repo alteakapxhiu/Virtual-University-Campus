@@ -1,6 +1,6 @@
 # Virtual University Campus Simulation
 
-![Virtual University Campus](https://i.imghippo.com/files/BlEtL1722018817.jpg)
+![Virtual University Campus](https://i.imghippo.com/files/bZS8W1723456249.png)
 
 ## Overview
 
