@@ -8,7 +8,7 @@ Explore The (VR) Virtual University Campus built in Unreal Engine a new and exci
 
 ## Demo
 
-Watch a vide demo of the game in action:
+Watch a video demo of the game in action:
 
 [![Demo Video](https://img.youtube.com/vi/5dXgW0DyCNk/0.jpg)](https://youtu.be/5dXgW0DyCNk?si=0xmfWyKPje5GIRBl)
 
